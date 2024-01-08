@@ -81,6 +81,17 @@ We would like to express our gratitude to Al-Akhawayn University for organizing 
 
 Feel free to reach out with any questions or feedback. Happy gaming!
 
+## Roadmap
+
+- [x] Implement Changelog for tracking project updates and improvements.
+- [x] Integrate back-to-top links for enhanced navigation within the app documentation.
+- [ ] Develop Additional Templates with Examples for comprehensive documentation.
+- [ ] Add API document to easily understand sections of the app
+- [ ] Multi-language Support
+    - [x] English
+    - [ ] German
+    - [ ] Arabic
+
 ### Starting Page
 
 <div align="center">
