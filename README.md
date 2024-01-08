@@ -1,21 +1,4 @@
 # DyslexiaKids Island App
-### Starting Page
-
-<div align="center">
-    <img src="frontend/src/components/images/screenshot1.png">
-</div>
-
-### Area/Chapters Page
-
-<div align="center">
-    <img src="frontend/src/components/images/screenshot2.png">
-</div>
-
-### Game Page
-
-<div align="center">
-    <p align="center">STILL WORKING ON</p>
-</div>
 
 ## Overview
 
@@ -97,6 +80,24 @@ Acknowledgments
 We would like to express our gratitude to Al-Akhawayn University for organizing the hackathon and providing the opportunity to develop DyslexiaKids Island.
 
 Feel free to reach out with any questions or feedback. Happy gaming!
+
+### Starting Page
+
+<div align="center">
+    <img src="frontend/src/components/images/screenshot1.png">
+</div>
+
+### Area/Chapters Page
+
+<div align="center">
+    <img src="frontend/src/components/images/screenshot2.png">
+</div>
+
+### Game Page
+
+<div align="center">
+    <p align="center">STILL WORKING ON</p>
+</div>
 
 # Project Team
 
