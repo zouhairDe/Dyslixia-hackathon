@@ -124,10 +124,10 @@ Feel free to reach out with any questions or feedback. Happy gaming!
 
 * Crafted the user experience, ensuring a seamless and engaging interaction for our young audience. Designed interfaces that prioritize usability and appeal to children aged 4 to 9, enhancing the overall user experience.
 
-#### [Daklay] - Backend Developer:
+#### [Daklay - YASSINEABN] - Backend Developer:
 
 * Led the backend development, ensuring robust functionality and seamless integration with the frontend. Implemented the necessary features to support the interactive elements and data processing.
 
-#### [-] - AI Specialist:
+#### [Mouad Barras] - AI Specialist:
 
 * Specialized in training the AI module responsible for processing user data. Contributed to the personalization of the learning experience.
