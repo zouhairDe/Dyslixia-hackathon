@@ -1,8 +1,15 @@
+# IMPORTANT NOTE
+## IF YOU CLONED THE APP , YOU WILL HAVE TO BYPASS THE LOGIN PAGE BY ADDING /map IN THE URL SO IT LOOK SOMETHING LIKE THIS
+```localhost:3000/map```
+## OR THIS:
+```127.0.0.1:3000/map```
+## AND THAT IS BECAUSE THE BACKEND AND AI MACHINE ARE NOT LINKED YET FOR SECURITY REASONS
+
 # DyslexiaKids Island App
 
 ## Overview
 
-#### DyslexiaKids Island is a full-stack web application designed to assist children with dyslexia by providing an innovative and interactive learning experience. In addition to offering games organized into four chapters at four different difficulty levels, the app stands out with its AI-powered interactive voice feature. This unique element engages children aged 4 to 9, making the learning process not only educational but also enjoyable and tailored to individual needs. The AI voice module processes user data, including the current chapter, difficulty level, used hints, completion times, and progress, creating a dynamic and personalized interaction akin to a supportive companion throughout the learning journey.
+DyslexiaKids Island is a full-stack web application designed to assist children with dyslexia by providing an innovative and interactive learning experience. In addition to offering games organized into four chapters at four different difficulty levels, the app stands out with its AI-powered interactive voice feature. This unique element engages children aged 4 to 9, making the learning process not only educational but also enjoyable and tailored to individual needs. The AI voice module processes user data, including the current chapter, difficulty level, used hints, completion times, and progress, creating a dynamic and personalized interaction akin to a supportive companion throughout the learning journey.
 
 ## Project Highlights
 
@@ -128,6 +135,6 @@ Feel free to reach out with any questions or feedback. Happy gaming!
 
 * Led the backend development, ensuring robust functionality and seamless integration with the frontend. Implemented the necessary features to support the interactive elements and data processing.
 
-#### [Mouad Barras] - AI Specialist:
+#### [Mouad Barras - Mouad BArras] - AI Specialist:
 
 * Specialized in training the AI module responsible for processing user data. Contributed to the personalization of the learning experience.
