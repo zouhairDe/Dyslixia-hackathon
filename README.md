@@ -114,7 +114,13 @@ Feel free to reach out with any questions or feedback. Happy gaming!
 ### Game Page
 
 <div align="center">
-    <p align="center">STILL WORKING ON</p>
+    <img src="frontend/src/components/images/inGame.png">
+</div>
+
+### End Gaem
+
+<div align="center">
+    <img src="frontend/src/components/images/GameEnd.png">
 </div>
 
 # Project Team
