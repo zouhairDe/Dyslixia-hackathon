@@ -141,6 +141,6 @@ Feel free to reach out with any questions or feedback. Happy gaming!
 
 * Led the backend development, ensuring robust functionality and seamless integration with the frontend. Implemented the necessary features to support the interactive elements and data processing.
 
-#### [Mouad Barras - Mouad BArras] - AI Specialist:
+#### [Mouad Barras - Slimane Chanchoul] - AI Specialist:
 
 * Specialized in training the AI module responsible for processing user data. Contributed to the personalization of the learning experience.
